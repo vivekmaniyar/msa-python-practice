@@ -1,0 +1,3 @@
+#!/bin/sh
+mvn clean package && docker build -t vivekmaniyar/EXAM_FINAL .
+docker rm -f EXAM_FINAL 2>/dev/null || true && docker run -it --name EXAM_FINAL -p 8080:8080 -p 4848:4848 -p 8181:8181 --name EXAM_FINAL vivekmaniyar/EXAM_FINAL

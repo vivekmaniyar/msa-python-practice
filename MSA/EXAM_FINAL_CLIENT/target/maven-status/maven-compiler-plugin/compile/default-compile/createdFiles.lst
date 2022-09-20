@@ -1,0 +1,10 @@
+com\mycompany\exam_final_client\service\RemoteServlet.class
+com\mycompany\exam_final_client\config\BootStrap.class
+com\mycompany\exam_final_client\service\resultservlet.class
+com\mycompany\exam_final_client\service\TblCity.class
+com\mycompany\exam_final_client\config\CrossOriginResourceSharingFilter.class
+com\mycompany\exam_final_client\config\Producers.class
+com\mycompany\exam_final_client\service\TblState.class
+com\mycompany\exam_final_client\service\ExampleService.class
+com\mycompany\exam_final_client\service\HealthCheckService.class
+com\mycompany\exam_final_client\service\RemoteClient.class
